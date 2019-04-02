@@ -83,7 +83,7 @@ session_start();
               <label for="exampleInputEmail1">Email Address</label>
             </div>
 
-            <div class="">
+            <div class="form-group">
               <button type="submit" class="" href="#contact">Send Message</button>
             </div>
 
