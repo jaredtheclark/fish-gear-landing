@@ -59,9 +59,9 @@ session_start();
         <div class="logo">
           <?php echo file_get_contents("img/fish-gear.svg"); ?>
         </div>
-        <div class="device-image">
-          <img src="img/device.png" />
-        </div>
+      </div>
+      <div class="device-image">
+        <img src="img/device.png" />
       </div>
 
       <div class="content">
